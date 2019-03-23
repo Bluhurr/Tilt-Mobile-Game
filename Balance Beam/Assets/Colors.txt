@@ -1,0 +1,3 @@
+Player and add points bar color: #9F2B00
+
+Background and Balance Beam color: #004DB8
